@@ -1,4 +1,4 @@
-package LinearTable;
+package lineartable;
 
 /**
  * Description: 线性表
